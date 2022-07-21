@@ -1,4 +1,4 @@
 # Python Finance
 
-## Cruzamento de médias móveis
-## Indicador MACD
+- Cruzamento de médias móveis
+- Indicador MACD
